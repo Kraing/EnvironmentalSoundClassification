@@ -8,6 +8,7 @@ The main dependencies of the project are:
 - cudnn 7.6.5
 - Librosa 0.8.0
 
+
 # Model Structure
 We firstly tried different architecture from the references with slight changes.
 In the end the final model, Multi Feature Network - MFNet,  was inspired mainly by [1], inception and residual blocks.
@@ -15,13 +16,20 @@ The final performance is very similar to [1] being basically a derivation.
 
 ![plot](./plots/MFNET.png)
 
+
 # Results
+
 ![plot](./plots/results.png)
+
 ![plot](./plots/ESC10_cm.png)
+
 ![plot](./plots/ESC50_cm.png)
+
+
 ## Authors
 - Aniello Xie
 - Carlo Facchin
+
 
 # References
 [1] Karol J Piczak. Environmental sound classification with
