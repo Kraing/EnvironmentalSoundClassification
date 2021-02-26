@@ -27,8 +27,8 @@ The final performance is very similar to [1] being basically a derivation.
 
 
 ## Authors
-- Aniello Xie
-- Carlo Facchin
+- [Aniello Xie](https://github.com/Kraing)
+- [Carlo Facchin](https://github.com/MrSeltz)
 
 
 # References
