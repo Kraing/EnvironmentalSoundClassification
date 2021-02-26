@@ -1,5 +1,5 @@
 # EnvironmentalSoundClassification
-Implementation of an environmental sound classification pipeline using ESC10 and ES50 datasets.
+Implementation of an deep convolutional network for environmental sound classification tastk using ESC10 and ES50 datasets.
 
 The main dependencies of the project are:
 - Python 3.7.9
