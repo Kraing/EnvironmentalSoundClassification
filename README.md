@@ -17,6 +17,11 @@ The final performance is very similar to [1] being basically a derivation.
 
 # Results
 ![plot](./plots/results.png)
+![plot](./plots/ESC10_cm.png)
+![plot](./plots/ESC50_cm.png)
+## Authors
+- Aniello Xie
+- Carlo Facchin
 
 # References
 [1] Karol J Piczak. Environmental sound classification with
